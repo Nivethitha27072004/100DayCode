@@ -31,7 +31,6 @@ through daily practice.
 ### ✅ Day 4: Bit Manipulation(easy)
 - [x] Convert Binary to Decimal
 - [x] Convert decimal to binary
-- 
 
 ---
 
