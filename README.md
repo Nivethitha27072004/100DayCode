@@ -31,7 +31,13 @@ through daily practice.
 ### ✅ Day 4: Bit Manipulation(easy)
 - [x] Convert Binary to Decimal
 - [x] Convert decimal to binary
-- 
 
 ---
+### ✅ Day 5: Bit Manipulation(easy)
+- [x] Swappin without 3rd digit;
+- [x] check if i th bit is set or not
+- [x] setting the i th digit
+- [x] clear the i th digit
+- [x] toggle the i th digit;
 
+---
