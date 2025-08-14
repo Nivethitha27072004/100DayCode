@@ -41,3 +41,8 @@ through daily practice.
 - [x] toggle the i th digit;
 
 ---
+### ✅ Day 6: Array
+- [x] left rotate array;
+- [x] rotate array d elemnts(right);
+---
+
