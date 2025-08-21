@@ -45,4 +45,8 @@ through daily practice.
 - [x] left rotate array;
 - [x] rotate array d elemnts(right);
 ---
+### ✅ Day 7: Array
+- [x] Union  two Of Sort Array;
+- [x] Missing NUmber in a array;
+---
 
