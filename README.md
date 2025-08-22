@@ -47,6 +47,11 @@ through daily practice.
 ---
 ### ✅ Day 7: Array
 - [x] Union  two Of Sort Array;
-- [x] Missing NUmber in a array;
+- [x] Missing Number in a array;
 ---
+### ✅ Day 8: Array
+- [x] SingleNumber in array;
+- [x] reverse the array;
+- [x]  Move zero to end of array;
+- [x] Count the consecutive ones;
 
