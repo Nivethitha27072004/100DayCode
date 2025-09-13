@@ -74,5 +74,19 @@ through daily practice.
 ### ✅ Day 9: Array
 
 - [x] chess Board;
-
 ---
+
+### ✅ Day 10: Math
+-[x] positive Or Negative
+- [x] even or odd
+---
+### ✅ Day 11: Math
+-[x] Exchange Gifts
+- [x] ReverseInteger
+- [x] prime number 
+- [X] prime number Btn intervals
+- [x] sum of digits
+---
+
+
+
