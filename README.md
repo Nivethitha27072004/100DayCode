@@ -86,7 +86,16 @@ through daily practice.
 - [x] prime number 
 - [X] prime number Btn intervals
 - [x] sum of digits
+
 ---
+### ✅ Day 12: Math
+- [x] palindrome
+- [x] fibonacci
+- [x] amstrong
+-  [x] amstrong In range
+---
+
+
 
 
 
