@@ -94,6 +94,11 @@ through daily practice.
 - [x] amstrong
 -  [x] amstrong In range
 ---
+### ✅ Day 13: Math
+- [x] strong Number
+- [x] factorial 
+- [x] factorsOfNumber
+- ---
 
 
 
