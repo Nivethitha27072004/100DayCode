@@ -100,6 +100,12 @@ through daily practice.
 - [x] factorsOfNumber
 - ---
 
+### ✅ Day 14: Math
+- [x] AutoMorphic number
+- [x] Harshad Number
+- [x] Perfect Number
+- [x] perfect Sqaure
+- --
 
 
 
