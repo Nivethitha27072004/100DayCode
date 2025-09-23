@@ -105,7 +105,15 @@ through daily practice.
 - [x] Harshad Number
 - [x] Perfect Number
 - [x] perfect Sqaure
-- --
+---
+
+### ✅ Day 15: array
+
+- [x] buy and sell stocks
+- [x] Maximum subArray
+---
+
+
 
 
 
