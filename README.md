@@ -112,7 +112,9 @@ through daily practice.
 - [x] buy and sell stocks
 - [x] Maximum subArray
 ---
-
+### ✅ Day 16: array
+-[x]MajorityEllement
+-[x]NextPermutation
 
 
 
