@@ -113,10 +113,14 @@ through daily practice.
 - [x] Maximum subArray
 ---
 ### ✅ Day 16: array
--[x]MajorityEllement
--[x]NextPermutation
+-[x] MajorityEllement
+-[x] NextPermutation
 
-
-
+### ✅ Day 17: Math & Array
+-[x] friendly Number
+- [x] Abundant Number
+- [x] Learder of Array
+- [x] logest consecutive sequence
+---
 
 
