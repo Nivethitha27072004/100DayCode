@@ -115,12 +115,26 @@ through daily practice.
 ### ✅ Day 16: array
 -[x] MajorityEllement
 -[x] NextPermutation
-
+---
 ### ✅ Day 17: Math & Array
 -[x] friendly Number
 - [x] Abundant Number
 - [x] Learder of Array
 - [x] logest consecutive sequence
 ---
+### ✅ Day 18: Array
+-[x] Largest Mushtache
+- [x] rotate matrix 90 deg
+- ---
+### ✅ Day 19: String 
+-[x] Alternative string mergeing
+-[x] set matrix zero
+- ---
 
+### ✅ Day 20: String &array
+-[x] king's crown 
+-[x] Binary search
+- [x] spiral Matrix
+
+---
 

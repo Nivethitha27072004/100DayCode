@@ -1,3 +1,34 @@
+/*n a quiet town, two mystical threads, s1 and s2, awaited a weaver to combine them. The artisan’s task was simple yet elegant: weave the strings by alternating their characters. If one thread was longer, its remaining part would be added at the end.
+Task
+Write a program that weaves two strings together by alternating their characters.
+ If one string is longer, append the extra characters to the end.
+
+Input
+Two strings s1 and s2 where:
+
+1 ≤ len(s1), len(s2) ≤ 100
+Both strings consist only of lowercase English letters.
+Output
+A single string formed by weaving s1 and s2.
+
+Examples
+Example 1
+
+Input: s1 = "abc", s2 = "pqr"
+
+Output: "apbqcr"
+
+Example 2
+
+Input: s1 = "ab", s2 = "pqrs"
+
+Output: "apbqrs"*/
+
+
+
+
+
+
 import java.util.*;
 
 public class AlternativeString {
