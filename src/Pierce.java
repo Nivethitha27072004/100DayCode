@@ -28,15 +28,12 @@ k = 6
 
 Output:[30, 40, 10, 20]
 */
-{
+
 import java.util.*;
 
 public class Pierce  {
-
-
-        }
         public static void main(String[] args) {
-            Solution solution = new Solution();
+            Pierce solution = new Pierce();
             System.out.println(Arrays.toString(solution.rotateClockwise(new int[]{1, 2, 3, 4, 5}, 2)));   // Expected: [4, 5, 1, 2, 3]
             System.out.println(Arrays.toString(solution.rotateClockwise(new int[]{10, 20, 30, 40}, 6)));  // Expected: [30, 40, 10, 20]
         }
@@ -58,7 +55,4 @@ public class Pierce  {
             arr[r--]=temp;
         }
     }
-
-
-
 }

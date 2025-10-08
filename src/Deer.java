@@ -55,7 +55,6 @@ public class Deer {
         return deerId;
 
 
-        return 0;
     }
 
     public static void main(String[] args) {

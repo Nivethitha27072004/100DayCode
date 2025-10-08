@@ -64,7 +64,7 @@ Explanation: 2 + 3 + 7 = 12 (requires more than two treasures).
         }
 
         public static void main(String[] args) {
-            Solution solution = new Solution();
+            Fishes solution = new Fishes();
             System.out.println(solution.canReachTarget(new int[]{2, 3, 5}, 8)); // Expected: Yes
             System.out.println(solution.canReachTarget(new int[]{1, 4, 6}, 8)); // Expected: No
             System.out.println(solution.canReachTarget(new int[]{2, 3, 7, 8}, 12)); // Expected: Yes
