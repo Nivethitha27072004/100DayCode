@@ -1,8 +1,8 @@
-public class BeePatternCount {
+/*public class PatternCount {
     public static void main(String[] args) {
         String paths = "ABACABA";
         String pattern = "ABA";
-        
+
         int count = countOccurrences(paths, pattern);
         System.out.println(count);
     }
@@ -16,7 +16,7 @@ public class BeePatternCount {
         for (int i = 0; i <= n - m; i++) {
             // Extract substring of length m from i
             String sub = paths.substring(i, i + m);
-            
+
             // Compare with pattern
             if (sub.equals(pattern)) {
                 count++;
@@ -25,4 +25,4 @@ public class BeePatternCount {
 
         return count;
     }
-}
+}*/
